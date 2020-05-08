@@ -157,12 +157,12 @@ without using double carry chains and similarly, the square of an integer in the
 * **gf-p2-511-187**: Implementations in GF[2^511-187].
     * **SLDCC** : Saturated limb implementation using farithx-SLPMP.
     * **USL1** : Unsaturated limb implementation using the reduction algorithm reduceUSL.
-    * **USL2** : Unsaturated limb implementation using similar to farith-USLB. An extra iteration is needed in the reduction to manage overfull situations.
+    * **USL2** : Unsaturated limb implementation using a reduction similar to farith-USLA/farith-USLB. An extra iteration is needed in the reduction to manage overfull situations.
     
 * **gf-p2-512-569**: Implementations in GF[2^512-569].
     * **SLDCC** : Saturated limb implementation using farithx-SLPMP.
     * **USL1** : Unsaturated limb implementation using farith-USL.
-    * **USL2** : Unsaturated limb implementation using similar to farith-USLB. An extra iteration is needed in the reduction to manage overfull situations.
+    * **USL2** : Unsaturated limb implementation using a reduction similar to farith-USLA/farith-USLB. An extra iteration is needed in the reduction to manage overfull situations.
 
 * **gf-p2-521-1**: Implementations in GF[2^521-1].
     * **SLDCC** : Saturated limb implementation using farithx-SLMP.
@@ -172,6 +172,6 @@ without using double carry chains and similarly, the square of an integer in the
 * **gf-p2-607-1**: Implementations in GF[2^607-1].
     * **SLDCC** : Saturated limb implementation using farithx-SLMP.
     * **USL1** : Unsaturated limb implementation using farith-USL.
-    * **USL2** : Unsaturated limb implementation using similar to farith-USLB. An extra iteration is needed in the reduction to manage overfull situations.
+    * **USL2** : Unsaturated limb implementation using a reduction similar to farith-USLA/farith-USLB. An extra iteration is needed in the reduction to manage overfull situations.
 
 ---    
