@@ -5,9 +5,9 @@
 | Kaushik Nath,  Indian Statistical Institute, Kolkata, India, and            |
 | Palash Sarkar, Indian Statistical Institute, Kolkata, India.	              |
 +-----------------------------------------------------------------------------+
-| Copyright (c) 2018, Kaushik Nath and Palash Sarkar.                         |
+| Copyright (c) 2018, Kaushik Nath.                                           |
 |                                                                             |
-| Permission to use this code is granted.                          	      |
+| Permission to use this code is granted.                          	          |
 |                                                                             |
 | Redistribution and use in source and binary forms, with or without          |
 | modification, are permitted provided that the following conditions are      |
